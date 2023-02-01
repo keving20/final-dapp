@@ -33,7 +33,7 @@ const FrontPage = () => {
             >
                 <Header
                     as="h1"
-                    content="DAPP FOR DOCS"
+                    content="DAPP FOR DOCS TESSTTTTTTTT"
                     style={{
                         fontSize: "5em",
                         fontWeight: "normal",
